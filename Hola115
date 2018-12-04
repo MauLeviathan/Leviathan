@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Hola Mundo</title>
+	<title>Hola mundo</title>
 </head>
 <body>
-Este es un ejemplo de heroku
+este es un ejemplo de heroku
 </body>
-</html>
+</html>	
